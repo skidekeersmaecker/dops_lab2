@@ -4,4 +4,4 @@ var app = express();
 
 app.use(express.static('client'));
 
-app.listen(80);
+app.listen(3000);
